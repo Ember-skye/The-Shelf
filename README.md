@@ -28,6 +28,10 @@ watchlist_app/
       posters/         <- series poster images
 ```
 
+## Screenshots
+<img width="1920" height="1080" alt="Screenshot (806)" src="https://github.com/user-attachments/assets/0e635dbb-09f8-4a55-850f-7e8c368e81b6" />
+
+
 ## Setup
 
 ```bash
